@@ -1,4 +1,4 @@
-## Code of the project is in the file [snaqjacq.ipynb](/sanqjaq.ipynb)
+## Code of the project is in the file [snaqjaq.ipynb](/sanqjaq.ipynb)
 
 ## IBM Quantum Challenge Overview
 

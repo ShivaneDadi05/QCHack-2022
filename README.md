@@ -1,3 +1,5 @@
+## Code of the project is in the file [snaqjacq.ipynb](/sanqjaq.ipynb)
+
 ## IBM Quantum Challenge Overview
 
 ![logo image](wordmark-02.png)

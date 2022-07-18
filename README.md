@@ -1,5 +1,7 @@
 ## Code of the project is in the file [snaqjaq.ipynb](/sanqjaq.ipynb)
 
+Creators: Jay, Shivane, Ved, Samar
+
 ## IBM Quantum Challenge Overview
 
 ![logo image](wordmark-02.png)
